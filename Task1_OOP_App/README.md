@@ -7,3 +7,4 @@ A ticketing system for Company A to manage IT support requests. Employees can re
 - Repository structure created
 - README initialized
 - Code development starting soon
+-
