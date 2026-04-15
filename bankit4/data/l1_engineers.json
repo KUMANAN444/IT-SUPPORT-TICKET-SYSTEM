@@ -1,0 +1,16 @@
+{
+  "LE10001": {
+    "id": "LE10001",
+    "first_name": "Jay",
+    "last_name": "oi",
+    "phone": "54980271",
+    "computer_serial": "yui45",
+    "mobile_serial": "tre467",
+    "dob": "2026-04-15",
+    "password": "",
+    "created_at": "2026-04-15T23:36:34.522467",
+    "role": "l1_engineer",
+    "level": 1,
+    "availability": {}
+  }
+}

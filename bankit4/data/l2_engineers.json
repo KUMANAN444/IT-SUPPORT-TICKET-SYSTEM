@@ -1,0 +1,16 @@
+{
+  "LE10002": {
+    "id": "LE10002",
+    "first_name": "op",
+    "last_name": "ji",
+    "phone": "7654890",
+    "computer_serial": "hji098",
+    "mobile_serial": "bnm45",
+    "dob": "2026-04-15",
+    "password": "",
+    "created_at": "2026-04-15T23:37:48.836238",
+    "role": "l2_engineer",
+    "level": 2,
+    "availability": {}
+  }
+}

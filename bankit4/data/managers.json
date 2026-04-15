@@ -1,0 +1,14 @@
+{
+  "PR12345": {
+    "id": "PR12345",
+    "first_name": "Admin",
+    "last_name": "Manager",
+    "phone": "00000000",
+    "computer_serial": "MGR-PC-001",
+    "mobile_serial": "MGR-MOB-001",
+    "dob": "1980-01-01",
+    "password": "246810",
+    "created_at": "2026-04-15T23:34:56.267538",
+    "role": "manager"
+  }
+}

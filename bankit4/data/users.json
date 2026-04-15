@@ -1,0 +1,14 @@
+{
+  "US10001": {
+    "id": "US10001",
+    "first_name": "kl",
+    "last_name": "bn",
+    "phone": "54678442",
+    "computer_serial": "zxcv453",
+    "mobile_serial": "aqwe234",
+    "dob": "2026-04-15",
+    "password": "",
+    "created_at": "2026-04-15T23:38:35.111201",
+    "role": "user"
+  }
+}
